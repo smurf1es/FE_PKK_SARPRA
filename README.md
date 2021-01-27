@@ -2,7 +2,6 @@
 > Aplikasi dibuat dengan React + Redux
 
 [![NPM Version][npm-image]][npm-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
@@ -11,7 +10,7 @@ One to two paragraph statement about your product and what it does.
 ## Cara memulai coding
 - Fork terlebih dahulu repo ini dengan mengklik tombol `fork` di sebelah `star`
   pada pojok kanan atas.
-  [fork]
+  [[fork]]
 - Setelah berhasil ter-fork, anda akan otomatis diarahkan kepada repo yang telah anda
   fork. Klik bagian code
   [code]
